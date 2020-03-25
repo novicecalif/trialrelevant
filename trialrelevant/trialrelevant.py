@@ -1,10 +1,13 @@
 """Main module."""
 
+
+def indmethod():
+    return 'ind method'
+
+
 class TrialRelevant(object):
     def __init__(self):
-         print 'mail TrialRelevant class'
+        print 'mail TrialRelevant class'
 
     def checkit(self):
-        print 'i am in checkit'
-
-   
+        return 'i am in checkit'

@@ -19,7 +19,7 @@ test_requirements = [ ]
 setup(
     author="soft shell",
     author_email='kumarcalif@gmail.com',
-    python_requires='>=3.5',
+    python_requires='>=2.5',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
